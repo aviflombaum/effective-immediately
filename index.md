@@ -5,10 +5,6 @@
 layout: home
 ---
 
-# Effective Immediately
-
-## About
-
 A central hub for employers, employees, and people who've been recently laid off. We hope each of you can find helpful resources about handling or recovering from layoffs during a pandemic.
 
 ### Table of Contents
